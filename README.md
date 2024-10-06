@@ -1,6 +1,6 @@
 # PerspectiveTransform
 
-This is an extremely useful class for advanced CSS 3d animation. You can set the x, y point of the corners of a DOM element and do need to think about the complicated Matrix formula behind it.
+This is an extremely useful class for advanced CSS 3d animation. You can set the x, y point of the corners of a DOM element and do not need to think about the complicated Matrix formula behind it.
 
 [![alt text](http://edankwan.github.io/PerspectiveTransform.js/screenshot/001.jpg)](http://edankwan.github.io/PerspectiveTransform.js/)
 
